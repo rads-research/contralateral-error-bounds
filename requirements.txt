@@ -1,0 +1,8 @@
+numpy>=2.0
+scipy>=1.13
+trimesh>=4.0
+rtree
+pandas
+matplotlib
+mat73
+h5py
